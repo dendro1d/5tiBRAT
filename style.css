@@ -1,0 +1,32 @@
+.text {
+    font-size: 20px;
+    color:crimson;
+    font-weight: bold;
+}
+
+.image {
+    width: 300px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    margin-left: 250px;
+}
+.main {
+    text-align: center;
+    color:green;
+    font-weight: bold;
+}
+.img2 {
+    width: 300px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    margin-left: 250px;
+}
+.pyati {
+    width: 300px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    margin-left: 250px;
+}
